@@ -2,3 +2,18 @@ h1 {
 	color: blueviolet;
 text-align: center;
 }
+body{
+	background-color: blanchedalmond;
+}
+p{
+	color: blue;
+	font-size: 20px;
+}
+#imageprincipal {
+width: 390px;
+height: 390px;
+border: 10px solid black;
+padding: 20px;
+margin: left 25% ;
+
+}
