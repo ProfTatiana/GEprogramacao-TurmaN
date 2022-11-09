@@ -1,19 +1,33 @@
-h1 {
-	color: blueviolet;
-text-align: center;
+body {
+	background-color: #83bf34;
 }
-body{
-	background-color: blanchedalmond;
+
+header, footer {
+ 	background-color: rgb(242, 90,138);
+
 }
-p{
-	color: blue;
+
+main {
+
+	background-color: #acf497;
+}
+h1  {
+	 text-align: center;
+	 color: #black;
+	
+}
+
+h3 {
+	color:black;
+}
+
+b {
+	color:rgb(242, 90, 138) ;
 	font-size: 20px;
 }
-#imageprincipal {
-width: 390px;
-height: 390px;
-border: 10px solid rgb(89, 35, 144);
-padding: 20px;
-margin: left 25% ;
+
+i {
+	color: #32CD32;
+	font-size: 30px;
 
 }
