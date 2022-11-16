@@ -4,7 +4,7 @@ body {
 }
 
 header{
-     background-color: #FFBE56;
+     background-color: #7dff56;
 }
 h1,h2,h3{
     margin: 10px;
@@ -17,8 +17,8 @@ p{
     padding: 4px;  
 }
 .logo{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .menu{
@@ -58,7 +58,7 @@ h1 { color:black;
     font: size 50px;
 }
 b {
-	color: #FFBE56;
+	color: #296b51;
 	font-size: 50px ;
 }
 
@@ -66,10 +66,10 @@ b {
     font-size: 40px;
 } 
 
-i { color:#FFBE56;
+i { color:#198622;
  }
 footer {
-   background-color: #FFBE56;
+   background-color: #25686e;
 }
 
 .momentos{
@@ -80,7 +80,7 @@ footer {
 }
 
 .imagemlateral {
-    display: inline-block;
+    display:inline-flex;
     width: 10%;
     height: inherit;
     margin: 20px;
